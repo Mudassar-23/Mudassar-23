@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mudassar-23
+- 👋 Hi, I’m Mudassar
 - 👀 I’m interested in Programing and gaming etc
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on C++ programming
