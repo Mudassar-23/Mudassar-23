@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mudassar
 - 👀 I’m interested in Programing and gaming 
 - 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on C++ programming
+  
 
 
 
