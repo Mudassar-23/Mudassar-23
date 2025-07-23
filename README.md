@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudassar Hussain</h1>
-<h3 align="center">A passionate Engineer from Pakistan</h3>
+<h3 align="center">A passionate Computer Engineer
 
 - 🌱 I’m currently learning **Engineering**
 
