@@ -1,9 +1,10 @@
 # 💫 About Me:
-Hi 👋, I'm Mudassar Hussain a Computer Engineering student with hands-on experience in software development, machine learning, and IoT-based systems. I have a strong foundation in programming using C++, Python, and embedded systems, along with practical experience in building real-world applications.
+Computer Engineering enthusiast with hands-on experience in software development, machine learning, and IoT systems. Proficient in C++, Python, and embedded programming, with a strong focus on building practical, real-world solutions.
 
-I enjoy working on projects that combine AI and hardware, such as environmental monitoring systems and machine learning web apps. My interests lie in Edge AI, IoT devices, and automation, where I aim to create efficient and impactful solutions.
+I have developed projects ranging from IoT-based environmental monitoring systems to machine learning web applications, combining AI with hardware to solve real problems. My interests lie in Edge AI, automation, and intelligent systems.
 
-I am always eager to learn new technologies, improve my problem-solving skills, and collaborate on innovative projects.
+I am continuously exploring new technologies, improving my problem-solving skills, and seeking opportunities to apply my knowledge in impactful and innovative projects.
+
 
 
 
